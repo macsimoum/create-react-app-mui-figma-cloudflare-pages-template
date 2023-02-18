@@ -8,12 +8,12 @@
 
 ## Page demo
 
-- [Dashboard](https:///dashboard/app)
-- [Users](https:///dashboard/user)
-- [Product](https:///dashboard/products)
-- [Blog](https:///dashboard/blog)
-- [Login](https:///login)
-- [Not Found](https:///404)
+- [Dashboard](https://create-react-app-mui-figma-cloudflare-pages-template.pages.dev/dashboard/app)
+- [Users](https://create-react-app-mui-figma-cloudflare-pages-template.pages.dev/dashboard/user)
+- [Product](https://create-react-app-mui-figma-cloudflare-pages-template.pages.dev/dashboard/products)
+- [Blog](https://create-react-app-mui-figma-cloudflare-pages-template.pages.dev/dashboard/blog)
+- [Login](https://create-react-app-mui-figma-cloudflare-pages-template.pages.dev/login)
+- [Not Found](https://create-react-app-mui-figma-cloudflare-pages-template.pages.dev/404)
 
 ## Getting started
 
